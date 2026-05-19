@@ -2,7 +2,7 @@
 
 A fully responsive, animated personal portfolio website built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
-🌐 **Live Site:** [your-username.github.io/my-portfolio](https://your-username.github.io/my-portfolio)
+🌐 **Live Site:** (https://levi-sage.github.io/PortFolio)
 
 ---
 
